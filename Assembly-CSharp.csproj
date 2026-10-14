@@ -53,16 +53,12 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.5.7f1\Editor\Data\BCLExtensions\TargetingPacks\netstandard2.1\analyzers\dotnet\roslyn4.0\cs\System.Text.Json.SourceGeneration.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\CenaTechArte\Scripts\PlayParticle.cs" />
-    <Compile Include="Assets\Assets\CenaTechArte\Scripts\PlayParticle.cs" />
-    <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
     <Compile Include="Assets\Assets\TutorialInfo\Scripts\Readme.cs" />
+    <Compile Include="Assets\porta.cs" />
+    <Compile Include="Assets\BotaoPorta3D.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Assets\TutorialInfo\StyleSheets\ReadmeEditor.uss" />
-    <None Include="Assets\TutorialInfo\StyleSheets\ReadmeEditorLight.uss" />
     <None Include="Assets\Assets\TutorialInfo\StyleSheets\ReadmeEditorDark.uss" />
-    <None Include="Assets\TutorialInfo\StyleSheets\ReadmeEditorDark.uss" />
     <None Include="Assets\Assets\TutorialInfo\StyleSheets\ReadmeEditor.uss" />
     <None Include="Assets\Assets\TutorialInfo\StyleSheets\ReadmeEditorLight.uss" />
   </ItemGroup>
